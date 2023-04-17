@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lynntorreslee@gmail.com
+	name = Lynn Lee Fratczak
